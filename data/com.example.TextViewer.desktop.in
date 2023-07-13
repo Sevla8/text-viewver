@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=text-viewer1
+Exec=text-viewer1
+Icon=com.example.TextViewer
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
